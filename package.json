@@ -1,6 +1,6 @@
 {
   "name": "ts-node-boilerplate",
-  "version": "0.3.19",
+  "version": "0.1.0",
   "description": "Node Boilerplate from BinPar TypeScript Projects",
   "engines": {
     "node": ">=10"
